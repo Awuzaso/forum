@@ -13,7 +13,7 @@ author: Daniel Klco
 baseurl: /Jekyll-Disqus-Forum
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://klcodanr.github.io/Jekyll-Disqus-Forum
+url: https://github.com/Awuzaso/forum
 
 # Exclude system files
 exclude: [.gitignore]
@@ -22,4 +22,5 @@ exclude: [.gitignore]
 disqus_shortname: jekylldisqusforum
 
 # The public key for your disqus application
-disqus_publickey: cVy9WcjLl6TI8EbBAL6PDy8FqMr4gm3HXXfERv7anOYHj3AZAyO2jD66Pqqe71B0
+disqus_publickey: oYsOPNpkqHDHue4MYvhNhxRzLBvgkULrhSciHMbj9ffMYNXByqfdmCwGsB2M8LAQ
+
