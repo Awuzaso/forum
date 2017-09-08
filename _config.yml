@@ -22,7 +22,7 @@ exclude: [.gitignore]
 disqus_shortname: jekylldisqusforum
 
 # The public key for your disqus application
-disqus_publickey: oYsOPNpkqHDHue4MYvhNhxRzLBvgkULrhSciHMbj9ffMYNXByqfdmCwGsB2M8LAQ
+disqus_publickey: I2n8Jyf1kPfOlq4Bf7CNEtxHLNcSsTcTfB2uYtToiWYqlNGLouu8g05YSYWBsCQU
 
 
 theme: jekyll-theme-cayman
