@@ -24,3 +24,5 @@ disqus_shortname: jekylldisqusforum
 # The public key for your disqus application
 disqus_publickey: oYsOPNpkqHDHue4MYvhNhxRzLBvgkULrhSciHMbj9ffMYNXByqfdmCwGsB2M8LAQ
 
+
+theme: jekyll-theme-cayman
